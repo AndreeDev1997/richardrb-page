@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/richardrb-page/static/css/main.a18e45f2.chunk.css",
+    "main.js": "/richardrb-page/static/js/main.ebebb4d7.chunk.js",
+    "main.js.map": "/richardrb-page/static/js/main.ebebb4d7.chunk.js.map",
+    "runtime-main.js": "/richardrb-page/static/js/runtime-main.8d4ad357.js",
+    "runtime-main.js.map": "/richardrb-page/static/js/runtime-main.8d4ad357.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/richardrb-page/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.7f8f6d5a.chunk.js": "/richardrb-page/static/js/2.7f8f6d5a.chunk.js",
+    "static/js/2.7f8f6d5a.chunk.js.map": "/richardrb-page/static/js/2.7f8f6d5a.chunk.js.map",
+    "index.html": "/richardrb-page/index.html",
+    "precache-manifest.8778cbb5b75dfc57c561825afb8b8305.js": "/richardrb-page/precache-manifest.8778cbb5b75dfc57c561825afb8b8305.js",
+    "service-worker.js": "/richardrb-page/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/richardrb-page/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.a18e45f2.chunk.css.map": "/richardrb-page/static/css/main.a18e45f2.chunk.css.map",
+    "static/js/2.7f8f6d5a.chunk.js.LICENSE.txt": "/richardrb-page/static/js/2.7f8f6d5a.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/richardrb-page/static/media/my-header.aca77d73.jpg",
+    "static/media/photo.png": "/richardrb-page/static/media/photo.14f7d696.png",
+    "static/media/Skills.css": "/richardrb-page/static/media/wallpaper-2.ce03075d.jpg",
+    "static/media/ContactMe.css": "/richardrb-page/static/media/wallpaper-3.539f2684.jpg",
+    "static/media/AboutMe.css": "/richardrb-page/static/media/wallpaper.690cf657.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d4ad357.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.7f8f6d5a.chunk.js",
+    "static/css/main.a18e45f2.chunk.css",
+    "static/js/main.ebebb4d7.chunk.js"
+  ]
+}
